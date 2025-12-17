@@ -1,0 +1,12 @@
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\bin\Debug\Pizza_Order.exe.config
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\bin\Debug\Pizza_Order.exe
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\bin\Debug\Pizza_Order.pdb
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\obj\Debug\Pizza_Order.csproj.AssemblyReference.cache
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\obj\Debug\Pizza_Order.Form1.resources
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\obj\Debug\Pizza_Order.Properties.Resources.resources
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\obj\Debug\Pizza_Order.csproj.GenerateResource.cache
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\obj\Debug\Pizza_Order.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\obj\Debug\Pizza_Order.exe
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\obj\Debug\Pizza_Order.pdb
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\obj\Debug\Pizza_Order.exe.config
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\Pizza Order App\Pizza_Order\obj\Debug\Pizza_Order.PizzaOrderSummary.resources
